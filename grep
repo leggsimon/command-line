@@ -4,9 +4,9 @@ The grep command is used to search within files.
 
 For example:
 
-"$ grep milk shopping_list.txt" will search for instances of "milk" within the file "shopping_list.txt"
+"$ grep milk shopping_list.txt" will search for the string "milk" within the file "shopping_list.txt"
 
 Wildcards can be used with grep;
 
 For example 
-"$ grep milk *.txt" will search for instances of "milk" within all .txt files
+"$ grep milk *.txt" will search for the string "milk" within all .txt files
