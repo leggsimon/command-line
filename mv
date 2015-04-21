@@ -1,0 +1,4 @@
+mv - "move"
+
+This command is used to move files or directories. It takes two parameters; the first is the file being moved and the second is the path it is being moved to.
+It can also be used to rename files by changing the name in the second parameter. This will rename it.
